@@ -1,6 +1,7 @@
 👋 Hi, I'm Pratik Saware
 
-🎓 B.Tech AI Student  
+🎓 B.Tech AI
+🏢 Currently woring for TCS
 💻 Python Developer  
 📍 India  
 
