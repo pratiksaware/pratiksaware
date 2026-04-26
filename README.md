@@ -12,7 +12,7 @@
 - Strong interest in Python development
 - Currently building projects using Tkinter & core Python.
 - Learning fundamentals of Data Structures & Problem Solving.
-- wprking and exploring on Machine Learning, Deep Learning and AI.
+- working and exploring on Machine Learning, Deep Learning and AI Concepts..
 
 ---
 
